@@ -1,5 +1,7 @@
 # Generative-Adversarial-Networks
 
+(Implemented using both PyTorch and Tensorflow)
+
 **Basic GANs**: GANs and DCGANs implemented on CelebA dataset
 
 **Better GANs**: Improved upon the loss function and others to overcome disadvantages of GANs, namely, Mode collapse
